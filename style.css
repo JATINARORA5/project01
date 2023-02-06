@@ -180,7 +180,7 @@ details>p{
     font-weight: 800;
     margin-bottom: 50px;
 }
-#container6>a{
+#container6>div a {
     text-align: center;
     margin-left: 550px;
     margin-right: 550px;
@@ -192,7 +192,7 @@ details>p{
     padding: 10px 20px ;
     background-color: white;
 }
-#container6>a:hover{
+#container6>div a:hover{
     font-size: larger;
 }
 #container7{
@@ -252,4 +252,9 @@ details>p{
 }
 a::after{
     color: #169b45;
+}
+
+.button{
+    height: 50px;
+    
 }
